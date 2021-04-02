@@ -19,5 +19,6 @@ Mạch LED nháy theo nhạc nhiều cột được dùng để trang trí, tăn
   + Nút điều chỉnh màu của đỉnh
   + Nút điều chỉnh độ sáng
   
-### (Sản phẩm sắp được bán trên Shopee)
+### Video demo sản phẩm
+[https://www.youtube.com/watch?v=8CED92mRcmQ](https://www.youtube.com/watch?v=8CED92mRcmQ)
 
