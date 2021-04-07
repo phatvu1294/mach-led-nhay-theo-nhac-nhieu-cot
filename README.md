@@ -20,5 +20,10 @@ Mạch LED nháy theo nhạc nhiều cột được dùng để trang trí, tăn
   + Nút điều chỉnh độ sáng
   
 ### Video demo sản phẩm
+
+[https://www.youtube.com/watch?v=skEepDQQAwY](https://www.youtube.com/watch?v=skEepDQQAwY)
+
+hoặc ở đây
+
 [https://www.youtube.com/watch?v=8CED92mRcmQ](https://www.youtube.com/watch?v=8CED92mRcmQ)
 
